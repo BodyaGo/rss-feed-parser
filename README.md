@@ -12,11 +12,13 @@ yarn dev
 pnpm dev
 ```
 
-for login as ADMIN
-
+## for login as ADMIN
+```bash
 username: bohdan@admin
+```
+```bash
 password: 111111
-
+```
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
